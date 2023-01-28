@@ -1,6 +1,6 @@
 # cube
 hi mr ewing its me jenifer
-/b
+\b
 Name: Jennifer
-/b
+\b
 Partner: None
